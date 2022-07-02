@@ -1,0 +1,32 @@
+.speakerInfoBlock {
+    padding-top: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.avatarWrapper{
+    width: 30%;
+}
+
+.avatar {
+  width: 100%;
+}
+
+.info {
+    padding: 50px 50px;
+    display: flex;
+    flex-direction: column;
+    flex:1;
+}
+
+.info > .fullName {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.info > .followWrapper {
+    display: flex;
+    align-items: center;
+    flex:1
+}
