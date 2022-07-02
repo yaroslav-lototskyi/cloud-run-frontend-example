@@ -13,3 +13,9 @@
 .talkList {
     padding-top: 50px;
 }
+
+.inputItem {
+    margin: 10px;
+    display: block;
+    width: 300px;
+}
