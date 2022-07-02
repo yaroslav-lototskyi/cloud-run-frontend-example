@@ -10,11 +10,22 @@
   },
   "dependencies": {
     "next": "12.2.0",
+    "prop-types": "^15.8.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "^7.18.2",
+    "@babel/preset-react": "^7.18.6",
     "eslint": "8.19.0",
-    "eslint-config-next": "12.2.0"
+    "eslint-config-next": "12.2.0",
+    "eslint-config-webbylab": "^6.0.0",
+    "eslint-plugin-fetch": "^0.0.1",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-more": "^1.0.5",
+    "eslint-plugin-no-require-lodash": "^1.1.0",
+    "eslint-plugin-prefer-spread": "^1.0.3",
+    "eslint-plugin-react": "^7.30.1",
+    "eslint-plugin-security": "^1.5.0"
   }
 }
