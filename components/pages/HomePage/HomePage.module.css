@@ -15,7 +15,7 @@
 }
 
 .inputItem {
-    margin: 10px;
+    margin: 10px !important;
     display: block;
     width: 300px;
 }
